@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/realdeal/static/css/main.1ec8d95e.chunk.css",
+    "main.js": "/realdeal/static/js/main.6da40b34.chunk.js",
+    "main.js.map": "/realdeal/static/js/main.6da40b34.chunk.js.map",
+    "runtime-main.js": "/realdeal/static/js/runtime-main.d9a549cb.js",
+    "runtime-main.js.map": "/realdeal/static/js/runtime-main.d9a549cb.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/realdeal/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d75b6212.chunk.js": "/realdeal/static/js/2.d75b6212.chunk.js",
+    "static/js/2.d75b6212.chunk.js.map": "/realdeal/static/js/2.d75b6212.chunk.js.map",
+    "index.html": "/realdeal/index.html",
+    "precache-manifest.8f805926ba0d8c9b3e3a035af50208eb.js": "/realdeal/precache-manifest.8f805926ba0d8c9b3e3a035af50208eb.js",
+    "service-worker.js": "/realdeal/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/realdeal/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.1ec8d95e.chunk.css.map": "/realdeal/static/css/main.1ec8d95e.chunk.css.map",
+    "static/js/2.d75b6212.chunk.js.LICENSE.txt": "/realdeal/static/js/2.d75b6212.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9a549cb.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d75b6212.chunk.js",
+    "static/css/main.1ec8d95e.chunk.css",
+    "static/js/main.6da40b34.chunk.js"
+  ]
+}
