@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2815357659e95f493cd2c7d314ad715c",
+    "revision": "73dc9acd942c8736bb7351177ec35f30",
     "url": "/realdeal/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/realdeal/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "f340be6e5628bc5d0052",
+    "revision": "0b1a709eb2b64992a647",
     "url": "/realdeal/static/css/main.f73f085a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/realdeal/static/js/2.fd643cf4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f340be6e5628bc5d0052",
-    "url": "/realdeal/static/js/main.743b70fd.chunk.js"
+    "revision": "0b1a709eb2b64992a647",
+    "url": "/realdeal/static/js/main.6e8c845b.chunk.js"
   },
   {
     "revision": "a5e027073e13060f7d33",
