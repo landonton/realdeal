@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/realdeal/static/css/main.f73f085a.chunk.css",
-    "main.js": "/realdeal/static/js/main.6e8c845b.chunk.js",
-    "main.js.map": "/realdeal/static/js/main.6e8c845b.chunk.js.map",
+    "main.css": "/realdeal/static/css/main.beba45af.chunk.css",
+    "main.js": "/realdeal/static/js/main.95159f46.chunk.js",
+    "main.js.map": "/realdeal/static/js/main.95159f46.chunk.js.map",
     "runtime-main.js": "/realdeal/static/js/runtime-main.d9a549cb.js",
     "runtime-main.js.map": "/realdeal/static/js/runtime-main.d9a549cb.js.map",
     "static/css/2.3c03f26f.chunk.css": "/realdeal/static/css/2.3c03f26f.chunk.css",
     "static/js/2.fd643cf4.chunk.js": "/realdeal/static/js/2.fd643cf4.chunk.js",
     "static/js/2.fd643cf4.chunk.js.map": "/realdeal/static/js/2.fd643cf4.chunk.js.map",
     "index.html": "/realdeal/index.html",
-    "precache-manifest.f56366002991bdd30ccd19abd70157b6.js": "/realdeal/precache-manifest.f56366002991bdd30ccd19abd70157b6.js",
+    "precache-manifest.21510a48ad00820d133b3e7130b2167d.js": "/realdeal/precache-manifest.21510a48ad00820d133b3e7130b2167d.js",
     "service-worker.js": "/realdeal/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/realdeal/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.f73f085a.chunk.css.map": "/realdeal/static/css/main.f73f085a.chunk.css.map",
+    "static/css/main.beba45af.chunk.css.map": "/realdeal/static/css/main.beba45af.chunk.css.map",
     "static/js/2.fd643cf4.chunk.js.LICENSE.txt": "/realdeal/static/js/2.fd643cf4.chunk.js.LICENSE.txt",
     "static/media/cover.png": "/realdeal/static/media/cover.b0b04b11.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.d9a549cb.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.fd643cf4.chunk.js",
-    "static/css/main.f73f085a.chunk.css",
-    "static/js/main.6e8c845b.chunk.js"
+    "static/css/main.beba45af.chunk.css",
+    "static/js/main.95159f46.chunk.js"
   ]
 }
